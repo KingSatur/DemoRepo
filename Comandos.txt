@@ -1,0 +1,2 @@
+"git checkout ." para devolverse en el ultimo cambio
+"git log" para ver todos los commits realizados
