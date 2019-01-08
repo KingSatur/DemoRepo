@@ -7,3 +7,4 @@
 "git reset --hard "numero de referencia del commit"" un paso atras de nuestros cambios, y devuelve los archivos que se eliminaron
 "git reflog" mirar de forma completa todo el historial de modificaciones, incluso si hubo reversiones.
 
+werwerweqrwerwqer
