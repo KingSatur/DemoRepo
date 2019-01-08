@@ -1,2 +1,3 @@
 "git checkout ." para devolverse en el ultimo cambio
 "git log" para ver todos los commits realizados
+"git commit --amend -m "mensaje nuevo"" esto es para modificar el mensaje de un commit
