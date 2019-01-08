@@ -6,5 +6,13 @@
 "git reset --soft "numero de referencia del commit"" un paso atras de nuestros cambios, con soft solo se devuelve en el commit
 "git reset --hard "numero de referencia del commit"" un paso atras de nuestros cambios, y devuelve los archivos que se eliminaron
 "git reflog" mirar de forma completa todo el historial de modificaciones, incluso si hubo reversiones.
+"git branch "nombre de la rama"" crear rama
+"git log --oneline --decorate --all --graph" otra forma de git log
+"git checkout "nombre de la rama"" cambiar de rama
+"git merge "nombre de la rama con la cual deseamos unir"" realizar union de ramas
+"git branch -d "nombre de la rama"" eliminar una rama
+"git tag "nombre de la etiqueta"" crear una etiqueta
 
-werwerweqrwerwqer
+
+Resolver merge con conflictos
+
