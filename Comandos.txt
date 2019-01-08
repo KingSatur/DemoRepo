@@ -2,3 +2,8 @@
 "git log" para ver todos los commits realizados
 "git commit --amend -m "mensaje nuevo"" esto es para modificar el mensaje de un commit
 "git mv "nombre del archivo" "nuevo nombre del archivo"" esto es para modificar el nombre de un archivo
+"git rm "nombre del archivo"" para eliminar un archivo
+"git reset --soft "numero de referencia del commit"" un paso atras de nuestros cambios, con soft solo se devuelve en el commit
+"git reset --hard "numero de referencia del commit"" un paso atras de nuestros cambios, y devuelve los archivos que se eliminaron
+"git reflog" mirar de forma completa todo el historial de modificaciones, incluso si hubo reversiones.
+
